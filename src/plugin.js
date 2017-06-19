@@ -55,6 +55,7 @@
  *    Untappd
  *    Xing
  *    Trakt.tv
+ *    Clever
  */
 
 angular.module("ngCordovaOauth", [
